@@ -1,4 +1,2 @@
-Description:
+Please note that the styling of this project relies on local files stored within the project folder. Therefore, to view all styling properly, it's necessary to download the entire folder and ensure that all file paths are preserved.
 
-Now you have a menu page for your cafeteria. For this assignment, please add an interactive order form for food items, which includes validation checks for each item's quantity.
-You can add the order form on your menu page or create a separate order page. Keep it real and make it great!
